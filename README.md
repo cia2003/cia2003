@@ -4,7 +4,7 @@ I'm Gracia, a curious college student, majoring in IT and Big Data Analytics. Re
 ## 🧠 About Me
 - 🎓 Currently studying computer science
 - 🎨 Passionate about front-end development, but will found other later
-- 📚 Always learning — from new frameworks to weird JavaScript quirks
+- 📚 Always learning — from web design trends to weird JavaScript quirks
 
 ## 🛠 Tech & Tools I Use
 - Tech Stack
